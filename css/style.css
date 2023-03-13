@@ -266,7 +266,7 @@ header {
      float: left;
      width: 120px;
      height: 100%;
-     background: #C9EEFF;
+     background: #BAD7E9;
      border-right: #fff solid 7px;
      padding: 33px;
      position: absolute;
@@ -572,7 +572,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #C9EEFF;
+     color: #BAD7E9;
 }
 
 .read_more {
@@ -719,7 +719,7 @@ ul.btn li:last-child {
 
 .test_box {
      padding: 40px 25px;
-     background: #C9EEFF;
+     background: #BAD7E9;
 }
 
 .review_Carousel .test_box h4 {
