@@ -266,7 +266,7 @@ header {
      float: left;
      width: 120px;
      height: 100%;
-     background: #BAD7E9;
+     background: #97DEFF;
      border-right: #fff solid 7px;
      padding: 33px;
      position: absolute;
@@ -336,7 +336,7 @@ header {
 
 #sidebar .sidebar-header {
      padding: 20px;
-     background: #0808ff;
+     background: #97DEFF;
 }
 
 #sidebar ul.components {
@@ -357,13 +357,13 @@ header {
 
 #sidebar ul li a:hover {
      color: #fff;
-     background: #0808ff;
+     background: #97DEFF;
 }
 
 #sidebar ul li.active>a,
 a[aria-expanded="true"] {
      color: #fff;
-     background: #0808ff;
+     background: #97DEFF;
 }
 
 a[data-toggle="collapse"] {
@@ -572,7 +572,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #BAD7E9;
+     color: #97DEFF;
 }
 
 .read_more {
@@ -656,7 +656,7 @@ ul.btn li:last-child {
 }
 
 .blu2 {
-     color: #3a3aff;
+     color: #97DEFF;
      font-weight: bold;
 }
 
@@ -719,7 +719,7 @@ ul.btn li:last-child {
 
 .test_box {
      padding: 40px 25px;
-     background: #BAD7E9;
+     background: #97DEFF;
 }
 
 .review_Carousel .test_box h4 {
@@ -759,11 +759,11 @@ ul.btn li:last-child {
 .review_Carousel .carousel-indicators li {
      width: 45px;
      height: 10px;
-     background: #052501;
+     background: #97DEFF;
 }
 
 .review_Carousel .carousel-indicators li.active {
-     background: #0808ff;
+     background: #97DEFF;
 }
 
 .carousel-control-next-icon,
@@ -791,7 +791,6 @@ ul.btn li:last-child {
 .footer .titlepage h2 {
      color: #fff;
 }
-
 ul.location_icon {
      padding-top: 12px;
 }
@@ -812,7 +811,7 @@ ul.location_icon li a {
 }
 
 ul.location_icon li a:hover {
-     color: #0808ff;
+     color: #97DEFF;
 }
 
 .main_form {
@@ -859,7 +858,7 @@ ul.location_icon li a:hover {
 }
 
 .main_form .send_btn:hover {
-     background-color: #0808ff;
+     background-color: #97DEFF;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -890,21 +889,11 @@ ul.social_icon li a {
 }
 
 ul.social_icon li a:hover {
-     background-color: #0808ff;
+     background-color: #97DEFF;
      color: #fff;
 }
 
-.map {
-     padding-top: 60px;
-}
 
-.map figure {
-     margin: 0;
-}
-
-.map figure img {
-     width: 100%;
-}
 
 .bottom_form {
      padding-top: 29px;
@@ -933,7 +922,7 @@ ul.social_icon li a:hover {
 .sub_btn {
      font-size: 17px;
      transition: ease-in all 0.5s;
-     background-color: #0808ff;
+     background-color: #97DEFF;
      color: #fff;
      padding: 11px 0px;
      max-width: 200px;
@@ -948,28 +937,6 @@ ul.social_icon li a:hover {
      background-color: #0e0b0a;
      transition: ease-in all 0.5s;
      color: #fff;
-}
-
-.copyright {
-     margin-top: 90px;
-     padding: 20px 0px;
-}
-
-.copyright p {
-     color: #fff;
-     font-size: 18px;
-     line-height: 22px;
-     text-align: center;
-     border-top: #ddd solid 1px;
-     padding-top: 25px;
-}
-
-.copyright a {
-     color: #fff;
-}
-
-.copyright a:hover {
-     color: #0808ff;
 }
 
 
